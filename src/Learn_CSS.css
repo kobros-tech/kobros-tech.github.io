@@ -1,0 +1,44 @@
+body
+{
+	background-color:#F5F5DC;
+}
+
+a:link
+{
+	color:red;
+	text-decoration:none;
+}
+
+a:hover
+{
+	color:rgb(100,50,255);
+	text-decoration:underline;
+}
+
+a:active
+{
+	color:green;
+}
+
+a:visited
+{
+	text-decoration:none;
+}
+
+*
+{
+	font-family:'tahoma'; font-size:18pt;
+}
+
+#head
+{
+	color:#162A40;
+	border:5px solid rgb(0,0,0);
+	border-radius:20px;
+}
+
+#paragraph:first-letter
+{
+	font-size:100pt;
+	font-style:italic;
+}
