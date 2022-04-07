@@ -1,0 +1,51 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    text-align: center;
+    background-color: #fcf6c6;
+  }
+  
+  
+  #s {
+      color: #a3c4f3;
+      font-size: 500%;
+  }
+
+  #a {
+    color: #cfbaf0;
+    font-size: 500%;
+}
+
+#j {
+    color: #b9fbc0;
+    font-size: 500%;
+}
+
+#i {
+    color: #fed4cf;
+    font-size: 500%;
+}
+
+#d {
+    color: #a3c4f3;
+    font-size: 500%;
+}
+
+#name {
+    width: 100%;
+    font-size: 100%;
+}
+
+p {
+    color: #27163a75;
+    font-size: 200%;
+}
+
+
+#video {
+    height: 100%;
+}
+
+#image{
+    width: 100%;
+}
